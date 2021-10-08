@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\AAAAULAS\PUC\Segundo\TIAW\Integração Spark\unidade003\.metadata\.plugins\org.eclipse.jdt.core
